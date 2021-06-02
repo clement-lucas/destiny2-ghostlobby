@@ -31,4 +31,4 @@
 #### The first two accounts added must be the hosts of each fireteam.
 #### If the firewall is active, accounts that are not already in the firewall will be unable to join the fireteam. You can run the auto sniffer to add them.
 #### Please do not run this on your personal computer it will clobber your firewall rules. It is meant to be run in an isolated enviroment (vm, vps, spare pc).
-#### Credits to inchenzo & BasRaayman for coming up with the method.
+
